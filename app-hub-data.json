@@ -1,0 +1,137 @@
+{
+  "projects": [
+    {
+      "id": "QzpcVXNlcnNcc3dlZXRcT25lRHJpdmVcRG9jdW1lbnRzXGNsaXBwZXI",
+      "name": "clipper",
+      "path": "C:\\Users\\sweet\\OneDrive\\Documents\\clipper",
+      "framework": "Vite",
+      "script": "dev",
+      "command": "npm run dev",
+      "lastUrl": null,
+      "pinned": false,
+      "discoveredAt": "2026-09-27T23:07:58.217Z"
+    },
+    {
+      "id": "QzpcVXNlcnNcc3dlZXRcT25lRHJpdmVcRG9jdW1lbnRzXGVzdGF2aWFcc3JjXGludHJvXGxvY2FsIGhlcm9zIDFcY2xpcHBlcg",
+      "name": "clipper",
+      "path": "C:\\Users\\sweet\\OneDrive\\Documents\\estavia\\src\\intro\\local heros 1\\clipper",
+      "framework": "Vite",
+      "script": "dev",
+      "command": "npm run dev",
+      "lastUrl": null,
+      "pinned": false,
+      "discoveredAt": "2026-09-30T08:25:38.511Z"
+    },
+    {
+      "id": "QzpcVXNlcnNcc3dlZXRcT25lRHJpdmVcRG9jdW1lbnRzXGVzdGF2aWE",
+      "name": "estavia",
+      "path": "C:\\Users\\sweet\\OneDrive\\Documents\\estavia",
+      "framework": "Vite",
+      "script": "dev",
+      "command": "npm run dev",
+      "lastUrl": "http://localhost",
+      "pinned": false,
+      "discoveredAt": "2026-09-30T08:25:38.505Z"
+    },
+    {
+      "id": "QzpcVXNlcnNcc3dlZXRcT25lRHJpdmVcRG9jdW1lbnRzXGhhbGZsaWdodA",
+      "name": "halflight-dvd",
+      "path": "C:\\Users\\sweet\\OneDrive\\Documents\\halflight",
+      "framework": "Vite",
+      "script": "dev",
+      "command": "npm run dev",
+      "lastUrl": "http://localhost",
+      "pinned": false,
+      "discoveredAt": "2026-09-30T08:25:38.530Z"
+    },
+    {
+      "id": "QzpcVXNlcnNcc3dlZXRcT25lRHJpdmVcRG9jdW1lbnRzXHRoZS1iYXJiZXI",
+      "name": "kane",
+      "path": "C:\\Users\\sweet\\OneDrive\\Documents\\the-barber",
+      "framework": "Vite",
+      "script": "dev",
+      "command": "npm run dev",
+      "lastUrl": null,
+      "pinned": false,
+      "discoveredAt": "2026-09-27T23:07:58.282Z"
+    },
+    {
+      "id": "QzpcVXNlcnNcc3dlZXRcT25lRHJpdmVcRG9jdW1lbnRzXGVzdGF2aWFcc3JjXGludHJvXGxvY2FsIGhlcm9zIDFcdGhlLWJhcmJlcg",
+      "name": "kane",
+      "path": "C:\\Users\\sweet\\OneDrive\\Documents\\estavia\\src\\intro\\local heros 1\\the-barber",
+      "framework": "Vite",
+      "script": "dev",
+      "command": "npm run dev",
+      "lastUrl": "http://localhost",
+      "pinned": false,
+      "discoveredAt": "2026-09-30T08:25:38.516Z"
+    },
+    {
+      "id": "QzpcVXNlcnNcc3dlZXRcT25lRHJpdmVcRG9jdW1lbnRzXG1vZGVsLWF0bGFz",
+      "name": "model-atlas",
+      "path": "C:\\Users\\sweet\\OneDrive\\Documents\\model-atlas",
+      "framework": "Next.js",
+      "script": "dev",
+      "command": "npm run dev",
+      "lastUrl": null,
+      "pinned": false,
+      "discoveredAt": "2026-09-27T23:07:58.250Z"
+    },
+    {
+      "id": "QzpcVXNlcnNcc3dlZXRcT25lRHJpdmVcRG9jdW1lbnRzXGVzdGF2aWFcc3JjXGludHJvXGxvY2FsIGhlcm9zIDFcbW9kZWwtYXRsYXM",
+      "name": "model-atlas",
+      "path": "C:\\Users\\sweet\\OneDrive\\Documents\\estavia\\src\\intro\\local heros 1\\model-atlas",
+      "framework": "Next.js",
+      "script": "dev",
+      "command": "npm run dev",
+      "lastUrl": null,
+      "pinned": false,
+      "discoveredAt": "2026-09-30T08:25:38.512Z"
+    },
+    {
+      "id": "QzpcVXNlcnNcc3dlZXRcT25lRHJpdmVcRG9jdW1lbnRz",
+      "name": "nocturne",
+      "path": "C:\\Users\\sweet\\OneDrive\\Documents",
+      "framework": "Vite",
+      "script": "dev",
+      "command": "npm run dev",
+      "lastUrl": null,
+      "pinned": false,
+      "discoveredAt": "2026-09-27T23:07:58.213Z"
+    },
+    {
+      "id": "QzpcVXNlcnNcc3dlZXRcT25lRHJpdmVcRG9jdW1lbnRzXG5vY3R1cm5l",
+      "name": "nocturne",
+      "path": "C:\\Users\\sweet\\OneDrive\\Documents\\nocturne",
+      "framework": "Vite",
+      "script": "dev",
+      "command": "npm run dev",
+      "lastUrl": null,
+      "pinned": false,
+      "discoveredAt": "2026-09-27T23:07:58.254Z"
+    },
+    {
+      "id": "QzpcVXNlcnNcc3dlZXRcT25lRHJpdmVcRG9jdW1lbnRzXGVzdGF2aWFcc3JjXGludHJvXGxvY2FsIGhlcm9zIDE",
+      "name": "nocturne",
+      "path": "C:\\Users\\sweet\\OneDrive\\Documents\\estavia\\src\\intro\\local heros 1",
+      "framework": "Vite",
+      "script": "dev",
+      "command": "npm run dev",
+      "lastUrl": null,
+      "pinned": false,
+      "discoveredAt": "2026-09-30T08:25:38.510Z"
+    },
+    {
+      "id": "QzpcVXNlcnNcc3dlZXRcT25lRHJpdmVcRG9jdW1lbnRzXGVzdGF2aWFcc3JjXGludHJvXGxvY2FsIGhlcm9zIDFcbm9jdHVybmU",
+      "name": "nocturne",
+      "path": "C:\\Users\\sweet\\OneDrive\\Documents\\estavia\\src\\intro\\local heros 1\\nocturne",
+      "framework": "Vite",
+      "script": "dev",
+      "command": "npm run dev",
+      "lastUrl": "http://localhost",
+      "pinned": false,
+      "discoveredAt": "2026-09-30T08:25:38.513Z"
+    }
+  ],
+  "extraRoots": []
+}
